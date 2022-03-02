@@ -1,0 +1,7 @@
+rur "NAO\05451782025223\0541677508612:01f7c4fd263159bcd35cf6819e269bc3cd949b75211818de4b48925ac29e04baed8abdc3" .instagram.com
+sessionid 51782025223%3A9dUyr1dUwxCLWr%3A27 .instagram.com
+csrftoken Ex995rl5xDmITI5GSFsBp4rjbY5foJP2 .instagram.com
+ig_nrcb 1 .instagram.com
+ds_user_id 51782025223 .instagram.com
+ig_did E8D9E53A-0B3C-43B7-8B69-295711DF0968 .instagram.com
+mid YhuMeAALAAH8w0QHHF8n_NEBkZpZ .instagram.com

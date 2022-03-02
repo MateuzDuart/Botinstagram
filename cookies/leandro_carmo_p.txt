@@ -1,0 +1,7 @@
+rur "ATN\05451972813989\0541677523574:01f748a0952927e3b9b711c2f3f019cde9dd4dce6796c9d5f4cee52097afba4acbb14684" .instagram.com
+sessionid 51972813989%3A5chhusXB15qozS%3A27 .instagram.com
+csrftoken F75JufmYYC6zAfftnBsait1o8hBN0UMM .instagram.com
+ig_nrcb 1 .instagram.com
+ds_user_id 51972813989 .instagram.com
+ig_did 332FBBE5-95C0-4520-BD5E-E7202E8AC0A7 .instagram.com
+mid YhvG2wALAAFD7wvQFKnmBQFc3gD5 .instagram.com

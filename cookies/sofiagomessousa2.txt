@@ -1,0 +1,7 @@
+rur "LDC\05451792789720\0541677545233:01f75f158e80d38d727800cbdd04c3bf4ec0cb35ba0107c9e9c2ece2f224f99f9ab1976b" .instagram.com
+sessionid 51792789720%3AFYEJK6mFnSDmsr%3A9 .instagram.com
+csrftoken rLnx8lKE49NLzubKSWoLNb3xfR7tjZ85 .instagram.com
+ig_nrcb 1 .instagram.com
+ds_user_id 51792789720 .instagram.com
+ig_did AE0442CA-6FA9-4360-BAB6-DBA0B7B0D6B9 .instagram.com
+mid YhwbawALAAFGhgUnYSm2CCy--qC8 .instagram.com

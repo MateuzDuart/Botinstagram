@@ -1,0 +1,7 @@
+rur "NCG\05452179586090\0541677692643:01f7f79011e8e32b41f47d9c51211b4811b7827e530b9e99e5c9ff6c0d8b4c85c4349cea" .instagram.com
+sessionid 52179586090%3A4LspKXtsAAa6O8%3A28 .instagram.com
+csrftoken eZKVyOHDnU3NEYbld3ThGjBq9waOubRr .instagram.com
+ig_nrcb 1 .instagram.com
+ds_user_id 52179586090 .instagram.com
+ig_did 8E834854-6E25-4E8F-9AC7-FEA624E95A4E .instagram.com
+mid Yh5bTgALAAGQ9_UwTini5-K3nFdm .instagram.com
