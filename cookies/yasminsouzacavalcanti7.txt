@@ -1,4 +1,0 @@
-ig_did CBEDE879-A2B1-49C5-9846-C2C087D03C10 .instagram.com
-mid Yh0CMgALAAGHT70TnS-yi2l0pQFa .instagram.com
-ig_nrcb 1 .instagram.com
-csrftoken zNKkcewtF7QD83MYTW10zvOJvfGpUg6x .instagram.com

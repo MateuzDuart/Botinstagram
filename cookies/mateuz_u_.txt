@@ -1,9 +1,0 @@
-csrftoken laNH7L0ucUxVD85Ym5zwwotpQq5sWkMn .instagram.com
-ds_user_id 5314457610 .instagram.com
-ig_did FA46C789-E09D-4FA7-A0E8-05E9C4AA02FD .instagram.com
-mid YhqRbAALAAFvhz3EB38Ly5jDQn4y .instagram.com
-sessionid 5314457610%3AHMZqdCQtl6PlKD%3A6 .instagram.com
-shbts "1646237150\0545314457610\0541677773150:01f70bf2b11b78bf64a7141e82945d0d4833d6e57baec32fc89b96c95f2589aa85811fe7" .instagram.com
-rur "NCG\0545314457610\0541677773723:01f759ba4453b87e6d0e5b8a6ca8cf5275d3aa215ee39805f204e13c56a1c5aa29623877" .instagram.com
-shbid "7676\0545314457610\0541677773150:01f7e262f1434b76c29cdb2a522d0201b771e72e28794680e87abfc6166f74c3ae280f69" .instagram.com
-ig_nrcb 1 .instagram.com

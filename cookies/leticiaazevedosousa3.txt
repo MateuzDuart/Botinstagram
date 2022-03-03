@@ -1,7 +1,0 @@
-rur "RVA\05452172410648\0541677637794:01f7f6a549aea4377198de0c230ad155d4d52a38d3c1756d6890ff13a755787cc2bf27bf" .instagram.com
-sessionid 52172410648%3ANG75Ft6GWwLCbk%3A25 .instagram.com
-csrftoken sDHtxopLVcUw9EzhKa0ZwdAm2pKmi59I .instagram.com
-ig_nrcb 1 .instagram.com
-ds_user_id 52172410648 .instagram.com
-ig_did 277552DB-5A33-4B06-BA7A-1D6E410B7752 .instagram.com
-mid Yh2FGQALAAEpO9VNwTDDSadcNeDN .instagram.com

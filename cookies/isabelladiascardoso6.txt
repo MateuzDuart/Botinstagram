@@ -1,7 +1,0 @@
-rur "VLL\05452320174090\0541677694793:01f7eb352e7817fd5b10175e41a5d3fe03dec96033405b315778570d72e7156ca281b3f5" .instagram.com
-sessionid 52320174090%3AXHEVxAQ6oRmMf6%3A13 .instagram.com
-csrftoken wSWhSNoUlJ4cKrXFbSNh57Gs6VMioJwY .instagram.com
-ig_nrcb 1 .instagram.com
-ds_user_id 52320174090 .instagram.com
-ig_did 2505F96F-53D2-4A7F-B3C7-AB8487222764 .instagram.com
-mid Yh5jsQALAAExSYrwP2h18PWfnoIe .instagram.com
